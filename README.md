@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily missed error in React Router DOM v6 related to parameter handling within route components.  The bug arises from incorrect usage of the 'useParams' hook, leading to undefined parameters and potential application crashes. The solution showcases the correct implementation using 'useParams' to access route parameters.
